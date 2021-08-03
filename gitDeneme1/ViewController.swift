@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     print("deneme github 1")
+        print("deneme github 2")
     }
 
 
